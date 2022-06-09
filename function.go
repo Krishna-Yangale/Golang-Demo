@@ -7,7 +7,7 @@ func main() {
 	// rupees := convertDollar(54)
 	// fmt.Println(rupees)
 
-	fmt.Println(convertDollar(20))
+	fmt.Println(convertDollar(50))
 
 }
 
